@@ -1,0 +1,7 @@
+/json/*
+/test/*
+
+*.pyc
+*.json
+
+!/json/token&server_id_tenpura.json
